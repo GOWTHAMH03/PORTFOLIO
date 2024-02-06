@@ -1,0 +1,28 @@
+
+body{
+    background-repeat: no-repeat ;
+    background-image: "C:\Users\Gowtham\OneDrive\Desktop\html\download.jpeg";
+    background-position: center;
+    background-size: 766px 1366px; 
+    
+
+}  background-color: lightgrey;
+ 
+border: 10px  green;
+width: 200px;
+padding: 50px blue;
+width: 200px;
+margin: 20px red;
+width: 200px;
+h2{
+    background-color: lightgrey;
+ 
+  border: 10px  green;
+  padding: 50px blue;
+  margin: 20px red;
+}
+form{
+    -webkit-text-fill-color: black;
+    
+   
+}

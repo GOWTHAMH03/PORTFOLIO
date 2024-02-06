@@ -1,0 +1,17 @@
+body{
+    background-color: lightcyan;
+}
+.h1{
+    color: blue;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: pink;
+    text-decoration-style:wavy;
+    text-decoration-thickness: 5px;
+}
+.para{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: oblique;
+}
+
+<link rel="stylesheet" href="style2.css">
